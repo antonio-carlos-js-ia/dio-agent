@@ -78,20 +78,29 @@ Edite este README pelo lápis, role até aqui e cole (Ctrl+V) um print de cada p
 
 ### Configure
 
-_Cole o print do DIO Agent se apresentando._
+
+<img width="1433" height="933" alt="Captura de tela de 2026-11-08 19-33-34" src="https://github.com/user-attachments/assets/a8576510-affe-4ba3-8611-488eae8e2b9f" />
+
 
 ### Estudar
 
-_Cole o print da explicação._
+<img width="1920" height="1080" alt="Captura de tela de 2026-11-08 20-02-22" src="https://github.com/user-attachments/assets/5a0ed4c5-6f36-43eb-a30a-c0b915e5a346" />
+
 
 ### Praticar
 
-_Cole o print da dica que destravou você._
+<img width="1433" height="933" alt="Captura de tela de 2026-11-08 19-58-12" src="https://github.com/user-attachments/assets/7ce6faea-f15a-4151-ac17-18c9e7160bad" />
 
 ### Planejar
 
-_Cole o print do seu plano de estudos._
+<img width="1920" height="1080" alt="Captura de tela de 2026-11-08 20-09-40" src="https://github.com/user-attachments/assets/5164711a-dbd2-4fb7-94c1-db10c9df5b63" />
+
 
 ### Como foi para você
 
-_Conte em poucas linhas como foi usar o DIO Agent pela primeira vez._
+Usar o DIO Agent pela primeira vez me ajudou a entender como um agente
+de IA com skills estruturadas funciona na prática. A diferença entre
+uma IA genérica e um agente com instruções específicas ficou muito
+clara — especialmente quando ele se recusou a me dar a resposta pronta
+no desafio de código e me conduziu pelo raciocínio. Saí da formação
+sabendo não só usar IA, mas configurar o comportamento dela.
